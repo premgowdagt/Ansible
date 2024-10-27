@@ -1,0 +1,188 @@
+hii fuck off 
+
+MANIPAL UNIVERSITY
+
+
+FIRST SEMESTER VLSI-CAD / MEDICAL SOFTWARE / EMBEDDED SYSTEMS
+DEGREE EXAMINATION – DECEMBER 2008-JANURY 2009
+
+SUBJECT: DATA STRUCTURES & ALGORITHMS (EDA 103 / MS 103 / ES 101) 
+
+QUESTION BANK
+
+
+    1. Write a function to delete an element at any position in doubly linked list.	     	10
+    2. What is a stack? What are the applications of stack? Implement stack using linked list.											     	10
+    3. Write a function to insert an element at any position to doubly linked list. 	     	10
+    4. What is a queue? Describe the pointer implementation of queues. Write the functions en-queue and de-queue associated with this implementation. 	     		    	10
+    5. What is a circular queue? Write the functions insert-queue and delete-queue associated with this implementation. 						     		    	10
+    6. a) What are stacks										2
+b) Write the algorithm of  PUSH and POP operations on the stack			6
+c) List any two applications of stack							2
+    7. a) What are queues? Describe the array implementation of queue with necessary functions.									           2+6
+b) List any two application of queue.							2
+    8. a) Distinguish between normal queue and circular queue.				2
+b) Write the functions for Insert and Delete operations on circular queue.		8
+    9. a) Write function to add an item into a singly linked list and display the list 	       4+2
+b) Write function to search an element from a singly linked list.   			4
+    10. a) Write function to delete an item from a doubly linked list.	     			5
+b) Write function to display the content of doubly linked list from head to tail and tail to head           									2.5+2.5
+
+
+    11. Write a function to find a factorial of a number and derive the time complexity.	10
+    12. What is an algorithm? Explain different criteria, an algorithm should satisfy.		10
+    13. How do you analyze the performance of an algorithm?					10
+    14. Write a function to multiply 2 matrices. Show that it's time complexity is 0(n*n*n).	10
+    15. Explain ‘Big oh’ notation, Omega notation and Theta notation.				10
+    16. Explain 	a) Data Structure	b) Algorithm	c) Performance of Algorithm .	10
+    17. Solve the following recurrences with T(l)=1					         5+5
+    a) T(n)=4*T(n/3)+n 
+    b) T(n)=9*T(n/3)+n2
+    18. Solve the following recurrences with T(l) = 1					        5+5
+    a) T(n) = 2*T(n/2) + n 
+    b) T(n) = T(2*n/3) + 0(l) 
+    19. Write short notes on Space complexity and Time Complexity.			   	10
+    20. With example explain how you are determining Space complexity and Time complexity of an algorithm.							 		   	10
+    21. Write the code for creating Binary Tree using pointers. Write a recursive function for in-order traversal of a binary tree.							   	10
+    22. Write a non recursive in-order traversal of a binary tree.				   	10
+    23. What are the properties of Binary Search Tree? Write a recursive function for implementation of binary search tree.						    	10
+    24. Write the code for creating Binary Tree using pointers. Write a recursive function for Pre-order traversal of a binary tree with suitable example			10	
+    25. Write an algorithm for deleting an item from binary search tree. Give example for different cases.									   	10
+    26. Write function for creating the following					          5+5
+    a) Binary Tree		b) Binary search Tree
+    27. Write a function for level order traversal of a binary tree. Illustrate with an example.  10
+    28.  a) Write a recursive function for creating binary search tree.           		          5+5
+ b) Write a recursive function for search an element in a binary search tree.	          
+    29. Write functions for  a) In-order  	b) Pre-order 		c) Post-order traversals and print output for each traversal.						         			10
+    30. a) Write a recursive function for finding the height of a binary tree.		          5+5
+    b) Write recursive functions for in-order and post-order traversal for binary tree. Illustrate with example.
+    31. Write a function for Merge Sort. Derive its time complexity. 			   	10
+    32. Write a function for sorting N numbers using Insertion Sort technique. Illustrate the working with an example. 							    	10
+    33. Write function for sorting N numbers using Heap Sort. Derive its time complexity. 	10
+    34. Write a function for sorting 'n' numbers using quick-sort. Illustrate the working with an example. Derive its worst case time complexity. 				         	10
+    35. Write a function for sorting N numbers using Bubble Sort and Selection sort techniques. Derive the time complexity.							          	10
+    36. Write an algorithm to sort N integers using bubble sort technique. Analyze its time complexity.										10
+    37. Write an algorithm to sort N integers using selection sort technique. Analyze its time complexity.										10
+    38. Write functions for the following
+a) Insertion sort		b)   Selection sort					          5+5
+    39. Write functions for the following
+    a) Bubble Sort		b)  Insertion Sort					         5+5
+    40. Write functions for the following and give worst case time			         5+5
+    a) Extracting Maximum element from Heap
+    b) Inserting element into Heap
+    41. Giving an example write the function for building adjacency list of a Graph. 	          	10
+    42. Write a function for Breadth First Search traversal of a Graph.		          		10
+    43. Define minimum spanning tree. Describe Prim's  algorithms for finding the minimum spanning tree and illustrate with an example.					          	10
+    44. Write code  for the SINGLE SOURCE SHORTEST PATHS problem. Illustrate this with an example.								         		10
+    45. Define minimum spanning tree. Describe Kruskal's algorithms for finding the minimum spanning tree and illustrate with an example.					         	10
+    46. Write short notes on the following (with respect to graph).			     2.5 x 4
+	a) Spanning Tree	b) Connected Graph
+	c) Simple path		d) Complete Graph 
+    b) Prove that the number of edges in an n-vertex complete graph is n(n-1)/2 .	          5+5
+    47. Write short notes on following with respect to graph				        2 x 5
+    b) Walk	b)  Path	c)  Incidence		d) Degree	e)  Cycle
+    48. Write short notes on the following (with respect to graph)			     2.5 x 4 
+    a) complete graph		b) connected & disconnected graph
+    c) directed &  undirected graph	d)   Component
+    49. Describe Prim's and Kruskal's algorithms for finding the minimum spanning tree.	10
+    50. Write short notes on the following (with respect to graph)			     2.5 x 4
+    a) complete graph		b)   connected graph
+    c) degree of graph		d)    Cycle
+    51. Give a divide-and-conquer method for multiplying two long integers. Derive its time complexity. 									        	10
+    52. Describe the Strassen's matrix multiplication method for multiplying two matrices. Derive its time complexity. 							        	10
+    53. Discus the following with respect to divide and conquer technique		           5+5
+    a) Strassen’s Matrix Multiplication
+    b) Multiplication of long integers
+    54. Write divide and conquer algorithms for						          5+5
+    a) Finding the maximum & minimum of ‘n’ numbers.
+    b) Searching element using binary search technique. Discus time complexity.
+
+    55. Discus the following with respect to divide and conquer technique		          5+5
+    a) Multiplication of long Integers.
+    b) Finding the maximum & minimum of ‘n’ numbers.
+    56. Discus the difference between Divide and Conquer Technique with Dynamic Programming. 										10
+    57. Write short notes on 								          5+5
+    a) Closest pair of points.	b)  Finding the maximum & minimum of ‘n’ numbers.
+    58. Write a divide-and-conquer algorithm to find the maximum and minimum of 'n' numbers. Show that it takes lesser time than the standard method. 			        	10
+    59. Write a recursive function for binary search. What is its time complexity?              	10
+    60. Give a divide and conquer solution for finding the closest-pair of points among 'n' points. 
+         	10
+    61. Write a dynamic programming algorithm for matrix chain multiplication. What is its time complexity? 									         	10
+    62. The product Al * A2 *A3 of 3 matrices is to be obtained. Their dimensions are given below
+Al   10x100 
+A2   100x5 
+A3   5x50
+Obtain the proper order of multiplication of the matrices so that the total number of scalar products is a minimum. Use a dynamic programming algorithm for solving the above matrix chain multiplication problem. 						          10
+    63. Write a dynamic programming algorithm for finding an Optimal Binary Search tree. Illustrate with an example. 							          10
+    64. *Let n = 4 and (a1, a2, a3, a4) = (do, if , int , while). Let p (1:4) = (3,3,1,1) and q(0:4) = (2,3,1,1,1) (The p’s and q’s have been multiplied by 16 for convenience).  Obtain the optimal binary search for the above identifiers using dynamic programming algorithm. 
+           	10
+    65. Write a dynamic programming algorithm for the ALL PAIRS SHORTEST PATHS problem. Illustrate this with an example. 						           	10
+    66. Explain the various steps of Dynamic Programming algorithm with an example.	10
+    67. *Write a dynamic program for knapsack problem.					10
+    68. Write the algorithms for All pairs shortest paths using Dynamic Programming technique.
+Derive All pairs shortest paths for the following example			   	         5+5
+
+
+
+
+
+
+
+    69. Write the algorithms for the following with respect to dynamic programming	          5+5
+    a) *Optimal Binary search Tree.		b)  All pairs shortest paths.
+    70. Write the algorithms for the following with respect to dynamic programming	         5+5
+    a) Matrix chain Multiplication.		b)  *Optimal Binary Search Tree.
+    71. Let w = { 5,7,10,12,15,18,20 }and m = 35. Find all possible subsets of w that sum to m. Do this using SumOfSub. Draw the portion of the state space tree is generated.           	10
+    72. Let w = { 5,10,12,13,15,18 }and m = 30. Find all possible subsets of w that sum to m. Do this using SumOfSub. Draw the portion of the state space tree is generated.		10
+    73. Discus the following problems with respect to Back tracking Technique	          5+5
+    a) N Queen Problem.			b)  Sum of Subsets Problem.
+    74. Write a backtracking algorithm to find all solutions to the n queen's problem. 	           	10
+    75. Describe a recursive backtracking algorithm for the sum of subsets problem. 	           	10
+    76. Write the algorithms for the following with respect to Back tracking Techniques.        5+5
+    a) N Queen Problem.			b)  Sum of Subsets Problem.
+    77. Write the algorithms for the following with respect to Back tracking Technique         5+5
+    a) Graph Coloring Problem.		b)  N Queen Problem.
+    78. Write a backtracking algorithm for finding all m-colorings of a graph.		           	10
+    79. Discus Backtracking design technique. Explain and write algorithm for N Queen problem.										     	10
+    80. Write the algorithms for the following with respect to Back tracking Technique         5+5
+    a) Sum of Subsets Problem.		b) Graph coloring Problem.
+    81. Distinguish between linear and binary search technique. Discus the time complexity.	10 
+    82. Compare time complexities of Bubble sort, insertion sort, heap sort, merge sort and quick sort.										      	10
+    83. Distinguish between normal queue and priority queue. What are the applications of heaps?		 								      	10
+    84. What is hashing? Briefly explain various Hashing techniques.				10
+    85. Explain Closed hashing technique (using arrays)  with required functions.		10
+    86. Explain separate chain hashing (using linked list) technique with required functions.	10
+    87. What do you mean by collision in hashing? Write short notes on various collision resolution techniques.									10
+    88. Write short notes on 								           5+5
+        a) Separate chain Hashing (linked list)		b)  Closed Hashing (array)
+    89. Why hashing technique is required? Explain different hashing techniques.		10
+    90. Explain with example various collision resolution techniques used in closed hashing (Array based).									 	10
+    91. With respect to Greedy approach write the following algorithms with examples         5+5
+a) Knapsack problem.			b) Job sequencing with deadlines.		     
+    92. With respect to Greedy approach write the following algorithms with examples        5+5
+a) Optimal storage on Tapes.		b) Job sequencing with deadlines.
+    93. Solve the following problems using greedy method				         5+5
+a) Let n = 4, (p1, p2, p3, p4)  = (100,10,15,27) and (d1, d2, d3, d4) = (2,1,2,1). Generate the list of feasible solutions, processing sequence and profit earned. Give the Optimal solution.
+b) Consider an instance of knapsack problem: n = 3, m = 20, (p1, p2, p3) = (25,24,15), and (w1, w2, w3) = (18, 15, 10). Generate at least 3 feasible solutions which includes an optimal solution.
+    94. Solve the following problems using greedy method				          5+5
+a) Let n = 4, (p1, p2, p3, p4)  = (100,10,15,27) and (d1, d2, d3, d4) = (2,1,2,1). Generate the list of feasible solutions, processing sequence and profit earned. Give the Optimal solution.
+b) Consider three programs with lengths (L1, L2, L3) = (5, 10, 3). Generate all possible ways of storing the programs with corresponding MRT. Give the optimal ordering of storing programs.
+    95. Solve the following problems using greedy method				           5+5
+    a) Consider three programs with lengths (L1, L2, L3) = (5, 10, 3). Generate all possible ways of storing the programs with corresponding MRT. Give the optimal ordering of storing programs.
+    b) Consider an instance of knapsack problem: n = 3, m = 20, (p1, p2, p3) = (25,24,15), and (w1, w2, w3) = (18, 15, 10). Generate at least 3 feasible solutions which includes an optimal solution.
+    96. Write short note on Priority queue. Write functions for Inserting and deleting elements from priority queue (Use Heaps).								10
+    97. Implement a priority queue with both insert and delete-minimum running in 0(logn) time. 
+10
+    98. Describe a 0(n logn) time algorithm that, given a set of n real numbers and another number x determines whether or not there exits two elements in the set whose sum is exactly x.											10
+    99. Consider a modification to merge sort in which ‘n/k’ sublists of length ‘k’ are sorted using insertion sort and then merged using the standard merging mechanism.	         3+7
+    a) Show that ‘n/k’ sublists each of length ‘k’ can be sorted by insertion sort in O(nk) worst-case time.
+    b) Show that sublists can be merged in O(n log n/k ) worst-case time.
+
+    100. Explain the different ways of implementing priority queue. Discus the time complexity of each implementation.							10
+
+
+
+
+
+
+- Compiled on December 2008

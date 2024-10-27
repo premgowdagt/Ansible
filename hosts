@@ -1,0 +1,13 @@
+
+[myhosts]
+
+172.16.51.122  ansible_ssh_user=msis
+172.16.51.122  ansible_ssh_user=msis  
+172.16.51.49  ansible_ssh_user=msis
+172.16.51.63  ansible_ssh_user=msis
+172.16.51.66  ansible_ssh_user=msis
+172.16.51.41  ansible_ssh_user=msis
+172.16.51.29  ansible_ssh_user=msis
+  
+
+

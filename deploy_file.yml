@@ -1,0 +1,27 @@
+---
+- hosts: myhosts
+  become: yes  # Run tasks as root
+  tasks:
+    - name: Ensure SSH directory exists with correct permissions
+      file:
+        path: /root/.ssh
+        mode: '0700'
+        state: directory
+        owner: root
+        group: root
+
+    - name: Deploy lds.zip to the /bin directory on the remote host
+      copy:
+        src: ./lds.zip
+        dest: /bin/lds.zip
+        mode: '0755'
+        owner: root
+        group: root
+
+    - name: Copy SSH public key to authorized_keys on the remote host
+      copy:
+        src: /root/.ssh/id_rsa.pub  # Path on the controller machine
+        dest: /root/.ssh/authorized_keys  # Path on the remote host
+        mode: '0644'
+        owner: root
+        group: root
